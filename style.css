@@ -1,0 +1,16 @@
+canvas {
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+
+/*make sure that root parent element has a position of absolute*/
+main {    
+  position: absolute;
+  color: white;
+  font-size: 40px;
+}
+
+h1 {
+  font-size: 80px;
+}
